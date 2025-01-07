@@ -74,4 +74,11 @@ Through these comprehensive changes, I achieved significant improvements in the 
 - **Security**: By externalizing credentials to a `.env` file, I removed sensitive information from the codebase, enhancing security.
 - **Code Quality**: Every detail, from proper resource management (closing `ResultSet` and `Statement` objects) to meaningful naming conventions and the removal of debug messages, has been meticulously addressed.
 
-This Markdown document can now be added directly to GitHub, and it will render with the proper heading and list formatting.
+## 6.Snapdhots
+![image](https://github.com/user-attachments/assets/97b9dc58-6135-40dc-a9fd-4344f3cc6f0b)
+![image](https://github.com/user-attachments/assets/0cc8d00e-83e4-4dee-9e57-a072ff7f869c)
+![image](https://github.com/user-attachments/assets/d8635f93-5bd3-4601-ab0c-63eda49e7ba0)
+![image](https://github.com/user-attachments/assets/db824792-d42d-4d99-a3b8-40c0d4d7334a)
+
+
+
