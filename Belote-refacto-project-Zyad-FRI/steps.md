@@ -68,26 +68,7 @@ java -cp bin Belote
 - **Manage Teams and Matches:** Easily handle team registrations and match schedules.
 - **User-Friendly GUI:** The project includes a graphical interface for smooth interaction.
 
-## **8. Contribution Guidelines**
-1. Fork the repository.
-2. Create a new branch for your changes:
 
-   ```bash
-   git checkout -b feature-name
-   ```
-
-3. Commit your changes:
-
-   ```bash
-   git add .
-   git commit -m "Description of changes"
-   ```
-
-4. Push your branch and open a pull request:
-
-   ```bash
-   git push origin feature-name
-   ```
 
 ## **9. Troubleshooting**
 
@@ -101,4 +82,4 @@ java -cp bin Belote
   ```
 
 ## **10. Contact**
-For further assistance, contact [Your Name] or raise an issue in the repository.
+For further assistance, contact me or raise an issue in the repository.
