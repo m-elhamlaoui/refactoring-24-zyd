@@ -64,7 +64,6 @@ Instead of manually building tables with custom drawing code, I introduced `Abst
 
 This change allows for easier sorting, editing, and refreshing of table data using straightforward methods like `fireTableDataChanged()`, thereby improving maintainability.
 
-(Continue converting the rest of the document into Markdown using the same style and formatting.)
 
 ## 5. Conclusion & Benefits
 Through these comprehensive changes, I achieved significant improvements in the project's architecture and code quality:
