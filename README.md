@@ -76,10 +76,14 @@ Through these comprehensive changes, I achieved significant improvements in the 
 
 ## 6.Snapdhots
 ![image](https://github.com/user-attachments/assets/bb17f941-2662-4120-967f-d20dbae7063e)
-![image](https://github.com/user-attachments/assets/97b9dc58-6135-40dc-a9fd-4344f3cc6f0b)
-![image](https://github.com/user-attachments/assets/0cc8d00e-83e4-4dee-9e57-a072ff7f869c)
-![image](https://github.com/user-attachments/assets/d8635f93-5bd3-4601-ab0c-63eda49e7ba0)
-![image](https://github.com/user-attachments/assets/db824792-d42d-4d99-a3b8-40c0d4d7334a)
+![image](https://github.com/user-attachments/assets/615ecabb-8414-46e3-b28f-5674b7841dfd)
+![image](https://github.com/user-attachments/assets/8d86116c-c6fe-4596-9256-690b092e0875)
+![image](https://github.com/user-attachments/assets/bacbfdc6-2bab-49f0-87c0-c9cf6615cfa9)
+![image](https://github.com/user-attachments/assets/86d61882-e210-4fb6-ac46-d72f10526567)
+
+![image](https://github.com/user-attachments/assets/0219557c-095a-4613-891d-5e42ae06b953)
+
+
 
 
 
