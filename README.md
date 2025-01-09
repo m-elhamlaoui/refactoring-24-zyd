@@ -75,6 +75,7 @@ Through these comprehensive changes, I achieved significant improvements in the 
 - **Code Quality**: Every detail, from proper resource management (closing `ResultSet` and `Statement` objects) to meaningful naming conventions and the removal of debug messages, has been meticulously addressed.
 
 ## 6.Snapdhots
+![image](https://github.com/user-attachments/assets/bb17f941-2662-4120-967f-d20dbae7063e)
 ![image](https://github.com/user-attachments/assets/97b9dc58-6135-40dc-a9fd-4344f3cc6f0b)
 ![image](https://github.com/user-attachments/assets/0cc8d00e-83e4-4dee-9e57-a072ff7f869c)
 ![image](https://github.com/user-attachments/assets/d8635f93-5bd3-4601-ab0c-63eda49e7ba0)
